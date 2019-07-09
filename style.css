@@ -1,0 +1,44 @@
+body{background: rgb(231, 231, 231);margin:0;}
+div.post{margin-top: 0;}
+
+h1 {
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+h3 {padding-left:10px; }
+.header-top{padding-top:10px; }
+.header-top h1{text-align: center;}
+
+.container {
+    background: white;
+
+
+
+    }
+
+.post-header{
+    background: white;
+width: 500px;
+height:430px;
+white-space: normal;
+     overflow: hidden;
+margin:auto;
+margin-bottom: 10px;
+}
+
+
+.post-header p{
+    float:right;
+    display: inline-block;
+
+}
+
+.post-header h3{
+    float:left;
+    display: inline-block;
+}
+.footer {padding-left: 15px;}
+.date{padding-right:10px; position: relative;
+    top: 6px;}
+
+
